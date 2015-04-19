@@ -1,11 +1,11 @@
 package ua.lviv.general;
 
-import ua.lvivl.shop.dao.BasketDao;
-import ua.lvivl.shop.dao.ProductDao;
-import ua.lvivl.shop.dao.UserDao;
-import ua.lvivl.shop.dao.imp.BasketDaoImp;
-import ua.lvivl.shop.dao.imp.ProductDaoImp;
-import ua.lvivl.shop.dao.imp.UserDaoImp;
+import ua.lviv.shop.dao.BasketDao;
+import ua.lviv.shop.dao.ProductDao;
+import ua.lviv.shop.dao.UserDao;
+import ua.lviv.shop.dao.imp.BasketDaoImp;
+import ua.lviv.shop.dao.imp.ProductDaoImp;
+import ua.lviv.shop.dao.imp.UserDaoImp;
 
 public class Factory {
 

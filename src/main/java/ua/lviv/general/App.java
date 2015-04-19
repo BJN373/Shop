@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import ua.lviv.shop.dao.BasketDao;
+import ua.lviv.shop.dao.ProductDao;
+import ua.lviv.shop.dao.UserDao;
+import ua.lviv.shop.dao.imp.BasketDaoImp;
 import ua.lviv.shop.domain.Basket;
 import ua.lviv.shop.domain.Product;
 import ua.lviv.shop.domain.User;
-import ua.lvivl.shop.dao.BasketDao;
-import ua.lvivl.shop.dao.ProductDao;
-import ua.lvivl.shop.dao.UserDao;
-import ua.lvivl.shop.dao.imp.BasketDaoImp;
 
 ;
 
